@@ -1,2 +1,2 @@
-# BaiTapLonJavaNhom1
-Bài tập lớn nhóm 1
+# java
+Chương trình quản lý sinh viên 
